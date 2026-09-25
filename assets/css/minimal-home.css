@@ -410,6 +410,68 @@ body.minimal-home a.affiliation:hover {
   margin-bottom: 0;
 }
 
+.affiliation-text {
+  color: #4f4f4f;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.profile-note {
+  color: #666;
+  font-size: 16px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 0 0 14px;
+}
+
+.metric-card {
+  min-width: 0;
+  padding: 12px 14px;
+  border: 1px solid #e4ece8;
+  border-radius: 6px;
+  background: #fbfdfc;
+}
+
+.metric-value {
+  display: block;
+  color: #153f37;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.metric-label {
+  display: block;
+  margin-top: 5px;
+  color: #666;
+  font-size: 14px;
+  line-height: 1.25;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.tag-list span {
+  padding: 5px 9px;
+  border: 1px solid #e5e1d5;
+  border-radius: 999px;
+  background: #fcfbf7;
+  color: #4c5147;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.paper-links span {
+  color: #6f6f6f;
+}
 @media print, screen and (max-width: 960px) {
   .minimal-wrapper {
     width: auto;
@@ -459,6 +521,10 @@ body.minimal-home a.affiliation:hover {
   .service-list li {
     grid-template-columns: 1fr;
     gap: 2px;
+  }
+
+  .metrics-grid {
+    grid-template-columns: 1fr;
   }
 
   .venue {

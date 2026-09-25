@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chendi Ge"
-description              : "Researcher at Tencent Hunyuan working on LLM evaluation, agentic coding, and agentic RL"
+title                    : "Sen Tao"
+description              : "Academic homepage of Sen Tao, focusing on computer vision, MLLMs, continual learning, and active learning"
 url                      : "https://gcd19.github.io"
 baseurl                  : ""
 repository               : "gcd19/gcd19.github.io"
 google_scholar_stats_use_cdn : true
-logo                     : "images/android-chrome-512x512.png"
+logo                     : "images/profile-sen-tao.jpg"
 
 # google analytics
 google_analytics_id      : G-WKBRM33HTV
@@ -24,15 +24,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chendi Ge"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Researcher at Tencent Hunyuan"
-  location         : "Beijing, China"
+  name             : "Sen Tao"
+  avatar           : "images/profile-sen-tao.jpg"
+  bio              : "Researcher in computer vision and multimodal learning"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=w5EwLD8AAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=DP3Q5qgAAAAJ&hl=zh-CN"
   cv               :
-  email            : "gecd23@gmail.com"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
