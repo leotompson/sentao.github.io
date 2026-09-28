@@ -34,8 +34,8 @@ redirect_from:
   <main class="minimal-main">
     <section id="about" class="top-section">
       <h2>About Me</h2>
-      <p>I am <strong>Sen Tao</strong> (<span lang="zh-CN">陶森</span>), affiliated with <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a> and <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>.</p>
-      <p>My research interests include <strong>computer vision</strong>, <strong>multimodal large language models</strong>, <strong>continual learning</strong>, and <strong>active learning</strong>, with recent work on human-object interaction detection and active prompt learning.</p>
+      <p>I am <strong>Sen Tao</strong> (<span lang="zh-CN">陶森</span>), affiliated with SIA and <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>.</p>
+      <p>My research interests include <strong>computer vision</strong>, <strong>multimodal large language models</strong>, <strong>continual learning</strong>, and <strong>agentic RL</strong>.</p>
       <p class="profile-note">This homepage is generated from my public Google Scholar profile and selected publication records.</p>
     </section>
 
@@ -49,9 +49,7 @@ redirect_from:
         <span>Computer Vision</span>
         <span>MLLM</span>
         <span>Continual Learning</span>
-        <span>Active Learning</span>
-        <span>Human-Object Interaction</span>
-        <span>Active Prompt Learning</span>
+        <span>Agentic RL/span>
       </div>
     </section>
 
