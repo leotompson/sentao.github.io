@@ -2,7 +2,7 @@
 layout: minimal-home
 permalink: /
 title: "Sen Tao"
-description: "Academic homepage of Sen Tao, focusing on computer vision, MLLMs, continual learning, and active learning."
+description: "Academic homepage of Sen Tao, focusing on MLLMs, Continual Learning, and Agentic RL."
 redirect_from:
   - /about/
   - /about.html
@@ -15,7 +15,7 @@ redirect_from:
     <div class="role-line">
       <span class="position">Researcher</span>
       <span class="role-separator" aria-hidden="true">&middot;</span>
-      <span class="affiliation-text">USTC / UCAS</span>
+      <span class="affiliation-text">UCAS</span>
     </div>
     <span class="program-track">Computer Vision · Multimodal Learning</span>
     <span class="email">Verified email at mail.ustc.edu.cn</span>
@@ -40,21 +40,6 @@ redirect_from:
     </section>
 
     <section id="metrics" class="section">
-      <h2>Google Scholar Metrics</h2>
-      <div class="metrics-grid">
-        <div class="metric-card">
-          <span class="metric-value">262</span>
-          <span class="metric-label">Citations</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value">3</span>
-          <span class="metric-label">h-index</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value">2</span>
-          <span class="metric-label">i10-index</span>
-        </div>
-      </div>
       <p class="paper-links"><a href="https://scholar.google.com/citations?user=DP3Q5qgAAAAJ&amp;hl=zh-CN">View Google Scholar profile</a></p>
     </section>
 
