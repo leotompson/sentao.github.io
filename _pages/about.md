@@ -13,7 +13,7 @@ redirect_from:
     <a class="avatar"><img src="{{ '/images/profile-sen-tao.jpg' | relative_url }}" alt="Sen Tao portrait"></a>
     <h1>Sen Tao <span lang="zh-CN">陶森</span></h1>
     <div class="role-line">
-      <span class="position">Researcher</span>
+      <span class="position">PhD Student</span>
       <span class="role-separator" aria-hidden="true">&middot;</span>
       <span class="affiliation-text">UCAS</span>
     </div>
