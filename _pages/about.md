@@ -64,7 +64,6 @@ redirect_from:
           </div>
         </article>
         
-        <!-- 其余 publications 列表结构保持不变，建议将里面的所有 <a> 标签也加上 target="_blank" -->
         <article>
           <div class="venue">CVPR 2026</div>
           <div>
@@ -74,7 +73,65 @@ redirect_from:
           </div>
         </article>
         
-        <!-- 为了简洁省略了后面的重复部分，请在实际文件中保留它们并加上 target="_blank" -->
+        <article>
+          <div class="venue">IJCV 2026</div>
+          <div>
+            <h3><a href="https://dblp.org/rec/journals/ijcv/TaoLZXHZ26.html" target="_blank" rel="noopener noreferrer">Boosting Active Prompt Learning via Discriminative Self-Training Dual-Curriculum Learning</a></h3>
+            <p><strong>Sen Tao</strong>, Jiawei Liu, Peng Zeng, Yongchao Xu, Bingyu Hu, Zheng-Jun Zha. <strong>International Journal of Computer Vision</strong>, 134(2):52.</p>
+            <p class="paper-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:ULOm3_A8WrAC" target="_blank" rel="noopener noreferrer">Scholar</a> · <a href="https://doi.org/10.1007/s11263-025-02641-x" target="_blank" rel="noopener noreferrer">DOI</a></p>
+          </div>
+        </article>
+        
+        <article>
+          <div class="venue">IJCV 2026</div>
+          <div>
+            <h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:MXK_kJrjxJIC" target="_blank" rel="noopener noreferrer">Mamba-Driven Comprehensive Context Learning for Zero-Shot HOI Detection</a></h3>
+            <p>Jiawei Liu, Yongchao Xu, <strong>Sen Tao</strong>, Yuexuan Qi, Zheng-Jun Zha. <strong>International Journal of Computer Vision</strong>, 134(1):10.</p>
+          </div>
+        </article>
+        
+        <article>
+          <div class="venue">AAAI 2025</div>
+          <div>
+            <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32972" target="_blank" rel="noopener noreferrer">HOIMamba: Efficient Mamba-based Disentangled Progressive Learning for HOI Detection</a></h3>
+            <p>Yongchao Xu, Jiawei Liu, <strong>Sen Tao</strong>, Qiang Zhang, Zheng-Jun Zha. <strong>Proceedings of the AAAI Conference on Artificial Intelligence</strong>, 39(9), 8987-8995.</p>
+            <p class="paper-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:0EnyYjriUFMC" target="_blank" rel="noopener noreferrer">Scholar</a> · <a href="https://doi.org/10.1609/aaai.v39i9.32972" target="_blank" rel="noopener noreferrer">DOI</a></p>
+          </div>
+        </article>
+        
+        <article>
+          <div class="venue">WRM 2023</div>
+          <div>
+            <h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:Se3iqnhoufwC" target="_blank" rel="noopener noreferrer">Runoff Forecasting Using Convolutional Neural Networks and Optimized Bi-directional Long Short-Term Memory</a></h3>
+            <p>J. Wu, Z. Wang, Y. Hu, <strong>S. Tao</strong>, J. Dong. <strong>Water Resources Management</strong>, 37(2), 937-953.</p>
+            <p class="paper-links"><span>165 citations on Google Scholar</span></p>
+          </div>
+        </article>
+        
+        <article>
+          <div class="venue">WRR 2023</div>
+          <div>
+            <h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:roLk4NBRz8UC" target="_blank" rel="noopener noreferrer">Robust Runoff Prediction with Explainable Artificial Intelligence and Meteorological Variables from Deep Learning Ensemble Model</a></h3>
+            <p>J. Wu, Z. Wang, J. Dong, X. Cui, <strong>S. Tao</strong>, X. Chen. <strong>Water Resources Research</strong>, 59(9), e2023WR035676.</p>
+            <p class="paper-links"><span>91 citations on Google Scholar</span></p>
+          </div>
+        </article>
+        
+        <article class="secondary-paper">
+          <div class="venue">PHM 2023</div>
+          <div>
+            <h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:UebtZRa9Y70C" target="_blank" rel="noopener noreferrer">A Novel Hybrid Method for Fault Diagnosis of Industrial Equipment Based on Vibration Signals</a></h3>
+            <p><strong>S. Tao</strong>, K. Wang, P. Zeng, T. Yu, H. Wu. <strong>Global Reliability and Prognostics and Health Management Conference</strong>.</p>
+          </div>
+        </article>
+        
+        <article class="secondary-paper">
+          <div class="venue">Preprint</div>
+          <div>
+            <h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DP3Q5qgAAAAJ&amp;citation_for_view=DP3Q5qgAAAAJ:KlAtU1dfN6UC" target="_blank" rel="noopener noreferrer">Mining the Potential of Rehearsal Mechanism for VLM-based Class Incremental Learning</a></h3>
+            <p><strong>S. Tao</strong>, J. Liu, Y. Xu, G. Wan, P. Zeng.</p>
+          </div>
+        </article>
       </div>
     </section>
   </main>
