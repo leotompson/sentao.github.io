@@ -15,7 +15,7 @@ redirect_from:
     <div class="role-line">
       <span class="position">Researcher</span>
       <span class="role-separator" aria-hidden="true">&middot;</span>
-      <span class="affiliation-text">SIA, UCAS & USTC</span>
+      <span class="affiliation-text">UCAS</span>
     </div>
     <span class="program-track">Computer Vision · Multimodal Learning</span>
     <span class="email">Verified email at mail.ustc.edu.cn</span>
@@ -118,7 +118,7 @@ redirect_from:
         </article>
         
         <article class="secondary-paper">
-          <div class="venue">Preprint</div>
+          <div class="venue">CVM 2026</div>
           <div>
             <h3>Mining the Potential of Rehearsal Mechanism for VLM-based Class Incremental Learning</h3>
             <p><strong>S. Tao</strong>, J. Liu, Y. Xu, G. Wan, P. Zeng.</p>
