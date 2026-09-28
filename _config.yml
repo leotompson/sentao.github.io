@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sen Tao"
-description              : "Academic homepage of Sen Tao, focusing on computer vision, MLLMs, continual learning, and active learning"
+description              : "Academic homepage of Sen Tao, focusing on MLLMs, Continual Learning, and Self-Evolving"
 url                      : "https://leotompson.github.io"
 baseurl                  : "/sentao.github.io"
 repository               : "leotompson/sentao.github.io"
