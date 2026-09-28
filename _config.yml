@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Sen Tao"
 description              : "Academic homepage of Sen Tao, focusing on computer vision, MLLMs, continual learning, and active learning"
-url                      : "https://gcd19.github.io"
-baseurl                  : ""
-repository               : "gcd19/gcd19.github.io"
+url                      : "https://leotompson.github.io"
+baseurl                  : "/sentao.github.io"
+repository               : "leotompson/sentao.github.io"
 google_scholar_stats_use_cdn : true
 logo                     : "images/profile-sen-tao.jpg"
 
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gcd19"
+  github           : "leotompson"
   google_plus      :
   keybase          :
   instagram        :
