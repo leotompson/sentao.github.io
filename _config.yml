@@ -11,7 +11,6 @@ description              : "Academic homepage of Sen Tao, focusing on MLLMs, Con
 url                      : "https://leotompson.github.io"
 baseurl                  : "/sentao.github.io"
 repository               : "leotompson/sentao.github.io"
-google_scholar_stats_use_cdn : true
 logo                     : "images/profile-sen-tao.jpg"
 
 # google analytics
