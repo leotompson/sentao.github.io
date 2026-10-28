@@ -34,6 +34,7 @@ redirect_from:
       <h2>About Me</h2>
       <p>I am <strong>Sen Tao</strong> (<span lang="zh-CN">陶森</span>), affiliated with SIA - <a href="https://english.ucas.ac.cn/" target="_blank" rel="noopener noreferrer">University of Chinese Academy of Sciences</a>, and USTC.</p>
       <p>My research interests include <strong>computer vision</strong>, <strong>multimodal large language models</strong>, <strong>continual learning</strong>, and <strong>agentic RL</strong>.</p>
+      <p>I am always open to motivated research collaborations from all career stages, including undergraduate, master's, and Ph.D. students. Please feel free to reach out at <a href="mailto:taosen23@mails.ucas.ac.cn">taosen23@mails.ucas.ac.cn</a>.</p>
       <p class="profile-note">This homepage displays my selected research and publication records.</p>
     </section>
 
@@ -45,6 +46,14 @@ redirect_from:
         <span>Continual Learning</span>
         <span>Agentic RL</span>
       </div>
+    </section>
+
+    <section id="News" class="section">
+      <h2>News</h2>
+      <ul>
+        <li><strong>Sep. 2026:</strong> A paper on an improved PPO-based RFT training paradigm for weakly supervised point cloud segmentation was accepted to NeurIPS.</li>
+        <li><strong>Sep. 2026:</strong> A paper on reinforcement learning for human interaction detection was accepted to NeurIPS.</li>
+      </ul>
     </section>
 
     <section id="publications" class="section">
